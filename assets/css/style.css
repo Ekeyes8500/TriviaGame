@@ -1,0 +1,77 @@
+body {
+
+    background-image: url("../images/bg.jpg")
+
+}
+
+#titletext {
+
+    font-family: 'Carter One', cursive;
+
+    text-align: center;
+    
+
+}
+
+.qformat {
+
+    height: 350px;
+
+    width: 900px;
+
+    border-style: solid;
+
+    border-width: 5px;
+
+    border-color: black;
+
+}
+
+.answer {
+
+
+    height: 50px;
+
+    width: 900px;
+
+    margin-top: 20px;
+}
+
+.textclass {
+    font-family: 'Carter One', cursive;
+
+
+    font-size: 20px;
+}
+
+.moveme {
+    position: relative; 
+
+    left: 45%;
+
+}
+
+.answerborder {
+    border-style: dashed;
+
+    border-color: black;
+
+    border-width: 5px;
+
+    height: 40px;
+
+    width: 900px;
+}
+
+.correct {
+    border-color: green;
+}
+
+#timer {
+
+    height: 40px;
+
+    width: 60px;
+
+    margin-top: 20px; 
+}
